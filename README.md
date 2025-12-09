@@ -28,8 +28,6 @@ Contents:
 
 11. Nth value, Nth value by category, Lead(), Lag(), Deduplication using row_number()
 
-<img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/9920ad44-b1ca-4daf-8ff3-1c22f6f5789c" />
-
 12. Views, Stored Procedure, Functions
 
 
