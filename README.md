@@ -1,6 +1,6 @@
-A Complete MySql Playbook  
+**A Complete MySql Playbook**  
 
-Contents: 
+**Contents:** 
  
 1. Foundations - DML, Constraints, Type Casting, 
 2. Exploring the architecture - Star Schema + Fact / Dimention modelling.
