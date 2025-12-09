@@ -1,4 +1,7 @@
-**A Complete MySql Playbook**  
+**A Complete MySql Playbook** 
+
+![Infographic - Introduction 2](https://github.com/user-attachments/assets/fa4b81a7-022d-4f43-9fae-7cbf8f845a48)
+
 
 **Contents:** 
  
