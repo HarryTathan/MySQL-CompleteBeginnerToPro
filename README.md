@@ -12,3 +12,6 @@ Contents:
 8. Subqueries and CTEs
 9. Nth value, Nth value by category, Lead(), Lag(), Deduplication using row_number()
 10. Views, Stored Procedure, Functions
+
+
+<img width="1388" height="877" alt="Star Schema" src="https://github.com/user-attachments/assets/b939cbdf-d2b0-46fa-a36d-6b55c14258c4" />
